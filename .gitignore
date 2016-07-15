@@ -1,0 +1,3 @@
+*.pyc
+temp/
+bower_components
